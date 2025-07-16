@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-07-16T09:04:00.326411",
+  "test_summary": {
+    "total_queries": 6,
+    "successful_queries": 6,
+    "failed_queries": 0,
+    "success_rate": 1.0,
+    "avg_search_time_seconds": 0.151,
+    "avg_results_per_query": 0.0
+  },
+  "category_performance": {
+    "law": {
+      "success_rate": 1.0,
+      "success_count": 2,
+      "total_count": 2
+    },
+    "contract": {
+      "success_rate": 1.0,
+      "success_count": 3,
+      "total_count": 3
+    },
+    "general": {
+      "success_rate": 1.0,
+      "success_count": 1,
+      "total_count": 1
+    }
+  },
+  "detailed_results": [
+    {
+      "query": "개인정보보호법의 주요 내용은?",
+      "category": "law",
+      "expected_doc_type": "law",
+      "search_time": 0.7090976238250732,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    },
+    {
+      "query": "전자상거래 소비자보호에 관한 법률",
+      "category": "law",
+      "expected_doc_type": "law",
+      "search_time": 0.040158748626708984,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    },
+    {
+      "query": "계약해지 조건과 절차",
+      "category": "contract",
+      "expected_doc_type": [
+        "executed_contract",
+        "standard_contract"
+      ],
+      "search_time": 0.03622102737426758,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    },
+    {
+      "query": "손해배상 책임 범위",
+      "category": "contract",
+      "expected_doc_type": [
+        "executed_contract",
+        "standard_contract"
+      ],
+      "search_time": 0.03971409797668457,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    },
+    {
+      "query": "계약 기간 및 갱신 조건",
+      "category": "contract",
+      "expected_doc_type": [
+        "executed_contract",
+        "standard_contract"
+      ],
+      "search_time": 0.03719305992126465,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    },
+    {
+      "query": "계약서 작성 시 주의사항",
+      "category": "general",
+      "expected_doc_type": "any",
+      "search_time": 0.04165172576904297,
+      "total_results": 0,
+      "results": [],
+      "success": true
+    }
+  ]
+}

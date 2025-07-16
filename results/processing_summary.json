@@ -1,0 +1,215 @@
+{
+  "total_files": 19,
+  "successful": 19,
+  "failed": 0,
+  "total_processing_time": 93.68918943405151,
+  "type_statistics": {
+    "law": {
+      "total": 13,
+      "success": 13,
+      "failed": 0
+    },
+    "executed_contract": {
+      "total": 1,
+      "success": 1,
+      "failed": 0
+    },
+    "standard_contract": {
+      "total": 5,
+      "success": 5,
+      "failed": 0
+    }
+  },
+  "details": [
+    {
+      "filename": "개인정보 보호법(법률)(제19234호)(20250313).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 44,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "근로기준법(법률)(제20520호)(20250223).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 24,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "노동조합 및 노동관계조정법(법률)(제17864호)(20210706).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 18,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "대ㆍ중소기업 상생협력 촉진에 관한 법률(법률)(제20982호)(20250527).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 23,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "독점규제 및 공정거래에 관한 법률(법률)(제20711호)(20250422).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 41,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "법인세법(법률)(제20613호)(20250701).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 90,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "부정경쟁방지 및 영업비밀보호에 관한 법률(법률)(제20321호)(20240821).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 14,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "상법(법률)(제20436호)(20250131).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 153,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "자본시장과 금융투자업에 관한 법률(법률)(제20531호)(20250423).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 209,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "중대재해 처벌 등에 관한 법률(법률)(제17907호)(20220127).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 5,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "중소기업기본법(법률)(제20362호)(20240828).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 9,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "특허법(법률)(제20975호)(20250527).pdf",
+      "doc_type": "law",
+      "folder_path": "/mnt/d/Workspace/2025-1/Smart-CLM/smartclm-poc/smartclm-eval/docs/근거 자료/법령",
+      "success": true,
+      "processing_time": 0,
+      "page_count": 69,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "하도급거래 공정화에 관한 법률(법률)(제20893호)(20250401).pdf",
+      "doc_type": "law",
+      "folder_path": "근거 자료/법령",
+      "success": true,
+      "processing_time": 52.95463442802429,
+      "page_count": 27,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "(주)알파솔루션_비밀유지계약서.docx",
+      "doc_type": "executed_contract",
+      "folder_path": "근거 자료/체결계약",
+      "success": true,
+      "processing_time": 11.478258609771729,
+      "page_count": 2,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "표준_비밀유지계약서(PDF TEST용).pdf",
+      "doc_type": "standard_contract",
+      "folder_path": "근거 자료/표준계약서",
+      "success": true,
+      "processing_time": 4.3235485553741455,
+      "page_count": 3,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "표준_비밀유지계약서.docx",
+      "doc_type": "standard_contract",
+      "folder_path": "근거 자료/표준계약서",
+      "success": true,
+      "processing_time": 4.882720947265625,
+      "page_count": 2,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "표준_업무 위탁 계약서(PDF TEST용).pdf",
+      "doc_type": "standard_contract",
+      "folder_path": "근거 자료/표준계약서",
+      "success": true,
+      "processing_time": 6.763423681259155,
+      "page_count": 4,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "표준_업무 위탁 계약서.docx",
+      "doc_type": "standard_contract",
+      "folder_path": "근거 자료/표준계약서",
+      "success": true,
+      "processing_time": 6.569772243499756,
+      "page_count": 3,
+      "chunk_count": 0,
+      "error": null
+    },
+    {
+      "filename": "표준_제품(서비스) 판매 계약서.docx",
+      "doc_type": "standard_contract",
+      "folder_path": "근거 자료/표준계약서",
+      "success": true,
+      "processing_time": 6.7168309688568115,
+      "page_count": 3,
+      "chunk_count": 0,
+      "error": null
+    }
+  ]
+}
